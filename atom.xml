@@ -4,7 +4,7 @@
   <subtitle><![CDATA[困啊！！！]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://yuki.siyuan12.com/"/>
-  <updated>2014-06-17T12:34:06.909Z</updated>
+  <updated>2014-06-18T13:04:21.764Z</updated>
   <id>http://yuki.siyuan12.com/</id>
   
   <author>
@@ -13,6 +13,21 @@
   </author>
   
   <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[线稿]]></title>
+    <link href="http://yuki.siyuan12.com/2014/06/18/%E7%BA%BF%E7%A8%BF/"/>
+    <id>http://yuki.siyuan12.com/2014/06/18/线稿/</id>
+    <published>2014-06-18T12:56:08.000Z</published>
+    <updated>2014-06-18T13:01:32.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://cl.ly/image/360l2X3Z0B18/%E7%BA%BF%E7%A8%BF0618_1.jpg" alt="Picture 1"></p>
+<p><img src="http://cl.ly/image/2I3U3d073U2P/%E7%BA%BF%E7%A8%BF0618_2.jpg" alt="Picture 2"></p>
+]]></content>
+    
+    
+      <category term="线稿" scheme="http://yuki.siyuan12.com/tags/%E7%BA%BF%E7%A8%BF/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Hello World]]></title>
